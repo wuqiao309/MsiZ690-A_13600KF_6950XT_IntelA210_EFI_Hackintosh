@@ -828,7 +828,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v alcid=66 watchdog=0 agdpmod=pikera dk.e1000=0 e1000=0</string>
+				<string>-v alcid=66 watchdog=0 agdpmod=pikera e1000=0</string>
 				<key>csr-active-config</key>
 				<data>/w8AAA==</data>
 				<key>run-efi-updater</key>
