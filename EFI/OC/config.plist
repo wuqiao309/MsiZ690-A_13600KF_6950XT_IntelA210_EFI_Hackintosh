@@ -898,7 +898,7 @@
                 <key>ROM</key>
                 <data>Jx1+aEw/</data>
                 <key>SpoofVendor</key>
-                <false/>
+                <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Upgradable</string>
                 <key>SystemProductName</key>
