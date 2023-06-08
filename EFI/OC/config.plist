@@ -577,9 +577,9 @@
                 <false/>
                 <key>AppleXcpmForceBoost</key>
                 <false/>
-                <key>CustomPciSerialDevice</key>
-                <false/>
                 <key>CustomSMBIOSGuid</key>
+                <false/>
+                <key>CustomPciSerialDevice</key>
                 <false/>
                 <key>DisableIoMapper</key>
                 <false/>
@@ -848,6 +848,8 @@
             </dict>
             <key>LegacyOverwrite</key>
             <false/>
+            <key>WriteFlash</key>
+            <true/>
             <key>LegacySchema</key>
             <dict>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -876,8 +878,6 @@
                     <string>BootOrder</string>
                 </array>
             </dict>
-            <key>WriteFlash</key>
-            <true/>
         </dict>
         <key>PlatformInfo</key>
         <dict>
@@ -889,14 +889,14 @@
             <dict>
                 <key>AdviseFeatures</key>
                 <true/>
-                <key>MLB</key>
-                <string>C028282704NJG36JC</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
+                <key>MLB</key>
+                <string>C028282704NJG36JC</string>
                 <key>ProcessorType</key>
                 <integer>3841</integer>
                 <key>ROM</key>
-                <data>2LvBi5c2</data>
+                <data>BHwWB+qz</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -956,10 +956,10 @@
                 <integer>0</integer>
                 <key>PointerPollMask</key>
                 <integer>-1</integer>
-                <key>PointerPollMax</key>
-                <integer>80</integer>
                 <key>PointerPollMin</key>
                 <integer>10</integer>
+                <key>PointerPollMax</key>
+                <integer>80</integer>
                 <key>PointerSpeedDiv</key>
                 <integer>1</integer>
                 <key>PointerSpeedMul</key>
@@ -1082,10 +1082,10 @@
                 <false/>
                 <key>TextRenderer</key>
                 <string>BuiltinGraphics</string>
-                <key>UIScale</key>
-                <integer>2</integer>
                 <key>UgaPassThrough</key>
                 <false/>
+                <key>UIScale</key>
+                <integer>2</integer>
             </dict>
             <key>ProtocolOverrides</key>
             <dict>
