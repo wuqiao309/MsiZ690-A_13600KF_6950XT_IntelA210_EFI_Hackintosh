@@ -777,9 +777,9 @@
                     <key>Auxiliary</key>
                     <true/>
                     <key>Comment</key>
-                    <string>OpenShell.efi</string>
+                    <string>Not signed for security reasons</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Flavour</key>
                     <string>OpenShell:UEFIShell:Shell</string>
                     <key>FullNvramAccess</key>
