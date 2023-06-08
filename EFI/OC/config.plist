@@ -73,13 +73,13 @@
                     <key>BaseSkip</key>
                     <integer>0</integer>
                     <key>Comment</key>
-                    <string>Replace one byte sequence with another</string>
+                    <string>RTC _STA</string>
                     <key>Count</key>
                     <integer>0</integer>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>Find</key>
-                    <data>ESIzRA==</data>
+                    <data>oAqTU1RBUwE=</data>
                     <key>Limit</key>
                     <integer>0</integer>
                     <key>Mask</key>
@@ -87,7 +87,7 @@
                     <key>OemTableId</key>
                     <data></data>
                     <key>Replace</key>
-                    <data>RDMiEQ==</data>
+                    <data>oAqRCv8L//8=</data>
                     <key>ReplaceMask</key>
                     <data></data>
                     <key>Skip</key>
@@ -197,7 +197,13 @@
         <key>DeviceProperties</key>
         <dict>
             <key>Add</key>
-            <dict/>
+            <dict>
+                <key>PciRoot(0x0)/Pci(0x1C,0x2)/Pci(0x0,0x0)</key>
+                <dict>
+                    <key>device-id</key>
+                    <data>8hUAAA==</data>
+                </dict>
+            </dict>
             <key>Delete</key>
             <dict/>
         </dict>
@@ -779,9 +785,9 @@
                     <key>Comment</key>
                     <string>Not signed for security reasons</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>Flavour</key>
-                    <string>OpenShell:UEFIShell:Shell</string>
+                    <string>Auto</string>
                     <key>FullNvramAccess</key>
                     <false/>
                     <key>Name</key>
@@ -893,21 +899,21 @@
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>MLB</key>
-                <string>C028282704NJG36JC</string>
+                <string>C02704401CDJG361F</string>
                 <key>ProcessorType</key>
                 <integer>3841</integer>
                 <key>ROM</key>
-                <data>BHwWB+qz</data>
+                <data>Jx1+aEw/</data>
                 <key>SpoofVendor</key>
-                <true/>
+                <false/>
                 <key>SystemMemoryStatus</key>
-                <string>Auto</string>
+                <string>Upgradable</string>
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02X2DYTHX87</string>
+                <string>C02T5UZZHX87</string>
                 <key>SystemUUID</key>
-                <string>971E488B-3B92-4FC5-B7D3-B27C668616D2</string>
+                <string>7D84169C-1B26-4153-A840-9A8F38863E4F</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1029,7 +1035,7 @@
                     <key>LoadEarly</key>
                     <false/>
                     <key>Path</key>
-                    <string>OpenCanopy.efi</string>
+                    <string>ToggleSipEntry.efi</string>
                 </dict>
             </array>
             <key>Input</key>
