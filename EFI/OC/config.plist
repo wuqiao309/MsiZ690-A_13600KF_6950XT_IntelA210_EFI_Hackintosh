@@ -197,13 +197,7 @@
         <key>DeviceProperties</key>
         <dict>
             <key>Add</key>
-            <dict>
-                <key>PciRoot(0x0)/Pci(0x1C,0x2)/Pci(0x0,0x0)</key>
-                <dict>
-                    <key>device-id</key>
-                    <data>8hUAAA==</data>
-                </dict>
-            </dict>
+            <dict/>
             <key>Delete</key>
             <dict/>
         </dict>
