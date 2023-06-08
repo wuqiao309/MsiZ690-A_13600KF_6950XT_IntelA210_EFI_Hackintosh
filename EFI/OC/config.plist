@@ -837,9 +837,8 @@
                 </array>
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <array>
-                    <string>revcpuname</string>
-                    <string>revcpu</string>
                     <string>rtc-blacklist</string>
+                    <string>revcpu</string>
                 </array>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <array>
