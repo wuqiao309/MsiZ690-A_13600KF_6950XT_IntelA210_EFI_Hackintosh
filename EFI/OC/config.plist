@@ -56,11 +56,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-RP.PXSX-disbale.aml</string>
+				<string>SSDT-SSD-DISABLE.aml</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-RP.PXSX-disbale.aml</string>
+				<string>SSDT-SSD-DISABLE.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -594,7 +594,7 @@
 			<key>CustomPciSerialDevice</key>
 			<false/>
 			<key>DisableIoMapper</key>
-			<true/>
+			<false/>
 			<key>DisableIoMapperMapping</key>
 			<false/>
 			<key>DisableLinkeditJettison</key>
