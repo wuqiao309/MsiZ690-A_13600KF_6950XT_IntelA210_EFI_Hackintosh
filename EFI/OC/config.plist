@@ -73,13 +73,13 @@
                     <key>BaseSkip</key>
                     <integer>0</integer>
                     <key>Comment</key>
-                    <string>RTC _STA</string>
+                    <string>Replace one byte sequence with another</string>
                     <key>Count</key>
                     <integer>0</integer>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Find</key>
-                    <data>oAqTU1RBUwE=</data>
+                    <data>ESIzRA==</data>
                     <key>Limit</key>
                     <integer>0</integer>
                     <key>Mask</key>
@@ -87,7 +87,7 @@
                     <key>OemTableId</key>
                     <data></data>
                     <key>Replace</key>
-                    <data>oAqRCv8L//8=</data>
+                    <data>RDMiEQ==</data>
                     <key>ReplaceMask</key>
                     <data></data>
                     <key>Skip</key>
@@ -95,29 +95,29 @@
                     <key>TableLength</key>
                     <integer>0</integer>
                     <key>TableSignature</key>
-                    <data>RFNEVA==</data>
+                    <data></data>
                 </dict>
                 <dict>
                     <key>Base</key>
-                    <string></string>
+                    <string>\_SB.PCI0.LPCB.HPET</string>
                     <key>BaseSkip</key>
                     <integer>0</integer>
                     <key>Comment</key>
-                    <string>ADBG to XDBG</string>
+                    <string>HPET _CRS to XCRS</string>
                     <key>Count</key>
                     <integer>1</integer>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Find</key>
-                    <data>QwMUGUFEQkc=</data>
+                    <data>X0NSUw==</data>
                     <key>Limit</key>
                     <integer>0</integer>
                     <key>Mask</key>
                     <data></data>
                     <key>OemTableId</key>
-                    <data>R1NXQXBw</data>
+                    <data></data>
                     <key>Replace</key>
-                    <data>QwMUGVhEQkc=</data>
+                    <data>WENSUw==</data>
                     <key>ReplaceMask</key>
                     <data></data>
                     <key>Skip</key>
@@ -125,7 +125,7 @@
                     <key>TableLength</key>
                     <integer>0</integer>
                     <key>TableSignature</key>
-                    <data>U1NEVA==</data>
+                    <data></data>
                 </dict>
             </array>
             <key>Quirks</key>
