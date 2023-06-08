@@ -900,7 +900,7 @@
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
-                <string>Upgradable</string>
+                <string>Auto</string>
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
