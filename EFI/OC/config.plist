@@ -861,8 +861,6 @@
             </dict>
             <key>LegacyOverwrite</key>
             <false/>
-            <key>WriteFlash</key>
-            <true/>
             <key>LegacySchema</key>
             <dict>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -891,6 +889,8 @@
                     <string>BootOrder</string>
                 </array>
             </dict>
+            <key>WriteFlash</key>
+            <true/>
         </dict>
         <key>PlatformInfo</key>
         <dict>
