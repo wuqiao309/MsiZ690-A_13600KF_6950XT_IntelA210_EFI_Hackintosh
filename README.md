@@ -23,7 +23,10 @@ https://github.com/Fu-Yuxuan-hub/Generic-EFI-for-H610-B660-Z690-B760-Z790/wiki/A
 - https://github.com/OpenIntelWireless/IntelBluetoothFirmware  有三个文件，inject只用于老版本，不要用
 - https://github.com/acidanthera/BrcmPatchRAM 只要fixup
 
-# 8.本人没做的可选优化
+# 8. HiDPI
+https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md
+
+# 9.本人没做的可选优化
 - [SSDT-EC-USBX.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-methods/manual.html#finding-the-acpi-path) for simpler / 更简洁
 - [SSDT-PLUG-ALT.aml](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/AcpiSamples/Source/SSDT-PLUG-ALT.dsl) for simpler / 更简洁
 - [SSDT-SBUS-MCHC.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/smbus.html) for correct temperature, fan, voltage, ICH, etc readings / 正确的温度、风扇、电压、ICH 等读数
