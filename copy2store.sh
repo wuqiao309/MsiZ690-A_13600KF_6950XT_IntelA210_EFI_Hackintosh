@@ -9,6 +9,10 @@ diskutil mount $USB_IDENTIFIER
 diskutil mount $DISK_IDENTIFIER
 sleep 2
 
+# 备份文件
+rm -rf ~/Desktop/EFI-backup-usb
+cp -R /Users/wuqiao/IdeaProjects/MsiZ690-A_13600KF_6950XT_IntelA210_EFI/EFI ~/Desktop/EFI-backup-usb
+
 # 进入目录 删除文件
 cd '/Volumes/EFI'
 rm -rf EFI
