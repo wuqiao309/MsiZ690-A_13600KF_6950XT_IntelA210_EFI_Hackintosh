@@ -3,6 +3,7 @@
 用了就能启动，非常OK
 
 2. usb定制 https://bbs.pcbeta.com/viewthread-1929276-1-1.html
+
 摘录
   一，使用USBToolBox定制https://github.com/USBToolBox
   请下载tool和kext，推荐在win下打开定制工具，定制过程非常简单，使用USB2.0和USB3.0各一个U盘，把所有的接口都插一遍，然后导出map.kext，将该kext和之前下载的另一个kext，总共两个kext放入efi加载并重启系统。
