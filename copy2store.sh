@@ -6,8 +6,8 @@ DISK_IDENTIFIER=`diskutil list | grep 'EFI' | grep -E 'disk0|disk1' | awk -F ' '
 
 # 挂载EFI
 diskutil mount $USB_IDENTIFIER
-sleep 3
 diskutil mount $DISK_IDENTIFIER
+sleep 2
 
 # 进入目录 删除文件
 cd '/Volumes/EFI'
