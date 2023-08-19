@@ -3,6 +3,7 @@ https://github.com/Fu-Yuxuan-hub/Generic-EFI-for-H610-B660-Z690-B760-Z790/blob/m
 
 
 # 2. usb定制
+https://apple.sqlsec.com/6-%E5%AE%9E%E7%94%A8%E5%A7%BF%E5%8A%BF/6-1/  <br/>
 https://bbs.pcbeta.com/viewthread-1929276-1-1.html <br/>
 > 摘录 <br/>
 > 一，使用USBToolBox定制https://github.com/USBToolBox <br/>
