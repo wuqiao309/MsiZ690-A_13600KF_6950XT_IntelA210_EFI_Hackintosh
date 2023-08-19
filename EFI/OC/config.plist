@@ -54,6 +54,14 @@
                     <key>Path</key>
                     <string>SSDT-SSD-DISABLE.aml</string>
                 </dict>
+                <dict>
+                    <key>Comment</key>
+                    <string>DISABLE MS DATA SSD</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-SSD2-DISABLE.aml</string>
+                </dict>
             </array>
             <key>Delete</key>
             <array>
