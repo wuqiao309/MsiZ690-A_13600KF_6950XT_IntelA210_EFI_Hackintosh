@@ -3,9 +3,8 @@ https://github.com/Fu-Yuxuan-hub/Generic-EFI-for-H610-B660-Z690-B760-Z790/blob/m
 
 
 # 2. usb定制
-https://www.bilibili.com/video/BV1dg4y1g7Ww/?spm_id_from=333.337.search-card.all.click&vd_source=51c18c7c4de702a0bb889bc9c5c643b8
-https://apple.sqlsec.com/6-%E5%AE%9E%E7%94%A8%E5%A7%BF%E5%8A%BF/6-1/  <br/>
-https://bbs.pcbeta.com/viewthread-1929276-1-1.html <br/>
+[教程视频【注意typce正反插】](https://www.bilibili.com/video/BV1dg4y1g7Ww/?spm_id_from=333.337.search-card.all.click&vd_source=51c18c7c4de702a0bb889bc9c5c643b8) <br/>
+[文本教程](https://apple.sqlsec.com/6-%E5%AE%9E%E7%94%A8%E5%A7%BF%E5%8A%BF/6-1/)  <br/>
 
 # 3. wifi
 https://github.com/OpenIntelWireless/itlwm 有两个文件，勿同时使用，用名字长的0.0
