@@ -18,7 +18,7 @@
                     <key>Comment</key>
                     <string>Fixes both the embedded controller and USB power</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>SSDT-EC-USBX-DESKTOP.aml</string>
                 </dict>
@@ -428,7 +428,7 @@
                     <key>Comment</key>
                     <string>V1.0 | USB driver with XHCI-unsupported.kext</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -446,7 +446,7 @@
                     <key>Comment</key>
                     <string>V1.1.1 | USB driver with UTBMap.kext</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/USBToolBox</string>
                     <key>MaxKernel</key>
@@ -464,7 +464,7 @@
                     <key>Comment</key>
                     <string>V1.1 | USB driver with USBToolBox.kext</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
