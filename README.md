@@ -3,16 +3,9 @@ https://github.com/Fu-Yuxuan-hub/Generic-EFI-for-H610-B660-Z690-B760-Z790/blob/m
 
 
 # 2. usb定制
+https://www.bilibili.com/video/BV1dg4y1g7Ww/?spm_id_from=333.337.search-card.all.click&vd_source=51c18c7c4de702a0bb889bc9c5c643b8
 https://apple.sqlsec.com/6-%E5%AE%9E%E7%94%A8%E5%A7%BF%E5%8A%BF/6-1/  <br/>
 https://bbs.pcbeta.com/viewthread-1929276-1-1.html <br/>
-> 摘录 <br/>
-> 一，使用USBToolBox定制https://github.com/USBToolBox <br/>
-> 请下载tool和kext，推荐在win下打开定制工具，定制过程非常简单，使用USB2.0和USB3.0各一个U盘，把所有的接口都插一遍，然后导出map.kext，将该kext和之前下载的另一个kext，总共两个kext放入efi加载并重启系统。 <br/><br/>
-> 二，使用hackintool完善 <br/>
-> 使用usbtoolbox定制后如果没有操作错误，已经可以正常使用。 <br/><br/>
-> 使用usbtoolbox定制会有两个问题， <br/>
-> 一是usbtoolbox不会将蓝牙，摄像头，读卡器之类的硬件设置为内建，所以需要使用hackintlool把接口类型改为internal，然后导出usbport.kext，删除usbtoolbox的两个kext，启用usbport.kext。 <br/>
-> 二是usbtoolbox可能会在oc升级后失效，所以使用hackintool导出usbport.kext是最好的方法。 <br/>
 
 # 3. wifi
 https://github.com/OpenIntelWireless/itlwm 有两个文件，勿同时使用，用名字长的0.0
