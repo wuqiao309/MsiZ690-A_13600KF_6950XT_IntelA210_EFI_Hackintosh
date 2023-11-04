@@ -498,7 +498,7 @@
                     <key>BundlePath</key>
                     <string>XHCI-unsupported.kext</string>
                     <key>Comment</key>
-                    <string>定制了 USB 后但是发现所以 USB 3.0 都无法工作的话也需要这个</string>
+                    <string>USB PORT 3.0 wei sheng xiao shi qi yong</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
