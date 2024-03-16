@@ -1,0 +1,16 @@
+#!/usr/bin/expect
+
+# 设置密码
+set password "1111"
+
+# 执行sudo命令
+spawn sudo -S sh /Users/wuqiao/IdeaProjects/MsiZ690-A_13600KF_6950XT_IntelA210_EFI_Hackintosh/cmd/copy2here.sh
+
+# 等待"password:"出现
+expect "*asswor*"
+
+# 自动输入密码
+send -- "$password\r"
+
+# 交互模式，允许用户交互
+interact
