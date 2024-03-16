@@ -4,7 +4,7 @@
 DISK_IDENTIFIER=`diskutil list | grep 'EFI' | grep -E 'disk0|disk1' | awk -F ' ' '{print $6}'`
 
 # 挂载EFI
-sudo diskutil mount $DISK_IDENTIFIER
+echo "1111" | sudo diskutil mount $DISK_IDENTIFIER
 sleep 1
 
 # 更新EFI
