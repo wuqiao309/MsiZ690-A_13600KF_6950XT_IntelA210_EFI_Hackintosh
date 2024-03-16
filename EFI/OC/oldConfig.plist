@@ -388,7 +388,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.7 | Audio patch</string>
+                    <string>V1.8.9 | Audio patch</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1358,6 +1358,10 @@
                     <integer>0</integer>
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
+                    <key>bluetoothExternalDongleFailed</key>
+                    <data>0w==</data>
+                    <key>bluetoothInternalControllerInfo</key>
+                    <data>0000000000000000000000000000</data>
                     <key>boot-args</key>
                     <string>agdpmod=pikera alcid=66</string>
                     <key>csr-active-config</key>
@@ -1366,10 +1370,6 @@
                     <string>zh-Hans:252</string>
                     <key>run-efi-updater</key>
                     <string>No</string>
-                    <key>bluetoothInternalControllerInfo</key>
-                    <data>00000000 00000000 00000000 0000</data>
-                    <key>bluetoothExternalDongleFailed</key>
-                    <data>00</data>
                 </dict>
             </dict>
             <key>Delete</key>
