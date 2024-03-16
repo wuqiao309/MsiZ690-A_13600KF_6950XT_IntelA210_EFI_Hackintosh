@@ -1366,6 +1366,10 @@
                     <string>zh-Hans:252</string>
                     <key>run-efi-updater</key>
                     <string>No</string>
+                    <key>bluetoothInternalControllerInfo</key>
+                    <data>00000000 00000000 00000000 0000</data>
+                    <key>bluetoothExternalDongleFailed</key>
+                    <data>00</data>
                 </dict>
             </dict>
             <key>Delete</key>
