@@ -10,4 +10,4 @@ sleep 1
 # 更新EFI
 sudo rm -rf /Users/wuqiao/IdeaProjects/MsiZ690-A_13600KF_6950XT_IntelA210_EFI_Hackintosh/EFI
 cp -R '/Volumes/EFI/EFI' /Users/wuqiao/IdeaProjects/MsiZ690-A_13600KF_6950XT_IntelA210_EFI_Hackintosh/EFI
-
+sudo chown -R wuqiao /Users/wuqiao/IdeaProjects/MsiZ690-A_13600KF_6950XT_IntelA210_EFI_Hackintosh/EFI
