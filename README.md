@@ -31,3 +31,4 @@ https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md
 - [MaciASL](https://github.com/acidanthera/MaciASL) 
 - [Hackintool](https://github.com/headkaze/Hackintool)
 - [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
+- [ProperTree](https://github.com/corpnewt/ProperTree)
