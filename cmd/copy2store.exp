@@ -1,7 +1,7 @@
 #!/usr/bin/expect
 
 # 设置密码
-set password "1111"
+set password "1234"
 
 # 执行sudo命令
 spawn sudo -S sh /Users/wuqiao/IdeaProjects/MsiZ690-A_13600KF_6950XT_IntelA210_EFI_Hackintosh/cmd/copy2store.sh
