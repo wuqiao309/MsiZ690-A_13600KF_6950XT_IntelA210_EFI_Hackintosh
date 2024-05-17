@@ -266,7 +266,7 @@
                 <key>RebuildAppleMemoryMap</key>
                 <true/>
                 <key>ResizeAppleGpuBars</key>
-                <integer>-1</integer>
+                <integer>0</integer>
                 <key>SetupVirtualMap</key>
                 <true/>
                 <key>SignalAppleOS</key>
@@ -1180,7 +1180,7 @@
                 <key>SysReport</key>
                 <false/>
                 <key>Target</key>
-                <integer>67</integer>
+                <integer>3</integer>
             </dict>
             <key>Entries</key>
             <array>
@@ -1359,9 +1359,9 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>bluetoothExternalDongleFailed</key>
-                    <data>0w==</data>
+                    <data>AA==</data>
                     <key>bluetoothInternalControllerInfo</key>
-                    <data>0000000000000000000000000000</data>
+                    <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
                     <string>agdpmod=pikera alcid=66</string>
                     <key>csr-active-config</key>
