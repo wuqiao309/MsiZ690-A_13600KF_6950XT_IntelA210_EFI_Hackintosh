@@ -1349,6 +1349,10 @@
                 <dict>
                     <key>rtc-blacklist</key>
                     <data></data>
+                    <key>revcpu</key>
+                    <integer>1</integer>
+                    <key>revcpuname</key>
+                    <string>13th Gen Intel(R) Core(TM) i5-13600KF</string>
                 </dict>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <dict>
