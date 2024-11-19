@@ -725,6 +725,22 @@
                     <key>Strategy</key>
                     <string>Disable</string>
                 </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>x86_64</string>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <false/>
+                    <key>Identifier</key>
+                    <string>com.apple.iokit.IOSkywalkFamily</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string>23.0.0</string>
+                    <key>Strategy</key>
+                    <string>Exclude</string>
+                </dict>
             </array>
             <key>Emulate</key>
             <dict>
@@ -1764,6 +1780,8 @@
                     <string>RuntimeCode</string>
                 </dict>
             </array>
+            <key>Unload</key>
+            <array/>
         </dict>
     </dict>
 </plist>
