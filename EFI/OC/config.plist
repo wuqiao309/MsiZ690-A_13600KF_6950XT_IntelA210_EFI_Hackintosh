@@ -298,7 +298,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.8 | Patch engine</string>
+                    <string>V1.7.0 | Patch engine</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -316,7 +316,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.3 | SMC emulator</string>
+                    <string>V1.3.4 | SMC emulator</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -334,7 +334,7 @@
                     <key>BundlePath</key>
                     <string>CPUFriend.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.8</string>
+                    <string>V1.2.9</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -388,7 +388,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.9.1 | Audio patch</string>
+                    <string>V1.9.3 | Audio patch</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -406,7 +406,7 @@
                     <key>BundlePath</key>
                     <string>RestrictEvents.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.4 | Blocking unwanted processes</string>
+                    <string>V1.1.5 | Blocking unwanted processes</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -424,7 +424,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.3 | SMC Sensor</string>
+                    <string>V1.3.4 | SMC Sensor</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -442,7 +442,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.3 | SMC Sensor</string>
+                    <string>V1.3.4 | SMC Sensor</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -514,7 +514,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.7 | GPU patches</string>
+                    <string>V1.6.9 | GPU patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -568,7 +568,7 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.8</string>
+                    <string>V2.6.9</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -622,7 +622,7 @@
                     <key>BundlePath</key>
                     <string>IntelMausi.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.7 | Intel Ethernet</string>
+                    <string>V1.0.8 | Intel Ethernet</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -640,7 +640,7 @@
                     <key>BundlePath</key>
                     <string>LucyRTL8125Ethernet.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.0 | Realtek 8125 Ethernet</string>
+                    <string>V1.2.0 | Realtek 8125 Ethernet</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -676,7 +676,7 @@
                     <key>BundlePath</key>
                     <string>USBInjectAll.kext</string>
                     <key>Comment</key>
-                    <string>V0.8.0</string>
+                    <string>V0.8.1</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
